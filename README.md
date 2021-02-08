@@ -30,7 +30,7 @@
 <a href="https://github.com/vueComponent/ant-design-vue">
   <img alt="ant-design-vue" width="22px" src="https://i.loli.net/2020/10/24/mtaqd6pPu1eyNYR.png" />
 </a>
-<a href="https://github.com/TencentCloudBase/cloudbase-framework">
+<!-- <a href="https://github.com/TencentCloudBase/cloudbase-framework">
   <img alt="TencentCloudBase" width="22px" src="https://i.loli.net/2020/10/24/elkHYDSqr5sym87.png" />
 </a>
 <a href="https://github.com/spritejs/spritejs">
@@ -38,7 +38,7 @@
 </a>
 <a href="https://github.com/Tencent/Hippy">
   <img alt="Tencent" width="22px" src="https://i.loli.net/2020/10/24/8jTdqn2yHGiNbRc.png" />
-</a>
+</a> -->
 <!-- <a href="https://github.com/liulinboyi">
   <img alt="wechat-miniprogram" width="22px" src="https://i.loli.net/2020/10/24/1WZebt5i7JSRmvM.png" />
 </a> -->
