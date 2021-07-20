@@ -4,13 +4,13 @@
 <a href="#814921718">
   <img align="left" alt="814921718" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/tencentqq.svg" />
 </a>
-<a href="https://weibo.com/liulinboyi">
+<a href="">
   <img align="left" alt="柳林博弈" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/sinaweibo.svg" />
 </a>
-<a href="https://www.zhihu.com/people/liu-lin-bo-yi-90">
+<a href="">
   <img align="left" alt="柳林博弈" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/zhihu.svg" />
 </a>
-<a href="https://github.com/liulinboyi">
+<a href="">
   <img align="left" alt="高宇" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/github.svg" />
 </a>
 
