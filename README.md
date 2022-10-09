@@ -60,7 +60,7 @@
 #### 🧰 Vue, TypeScript, Mini Program are all familiar, React has written some code. 
 <!-- Currently looking for a job -->
 
-#### 📫 18811683040@163.com
+#### 📫 673395239@qq.com
 
 #### “有时我不得不放下笔，叹口气。但我喜欢这个主题，我不会放弃。” —— <a href="https://zh.wikipedia.org/wiki/%E7%8E%8B%E8%B4%9E%E4%BB%AA">王贞仪</a>
 
